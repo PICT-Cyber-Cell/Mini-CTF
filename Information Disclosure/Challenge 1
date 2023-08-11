@@ -1,0 +1,21 @@
+🔥Welcome to your very first challenge!!
+
+🚩Challenge Description:
+Your first challenge revolves around information disclosure.
+When a site makes delicate and sensitive data available to guests , it is termed as information disclosure.
+This can be intentional or unintentional and can lead to identity theft, fraud, or even reputational damage.
+Information disclosure might result in leaking of login credentials or sensitive information.🔍💻
+
+🚩How does information disclosure vulnerabilities arise?
+	1) Failure to remove internal content from public content.
+	2)  Insecure configuration of the website and related technologies.
+	3) Flawed design and behaviour of the application.
+
+So, since now you have a fair idea about Information Disclosure, let's begin with the first challenge!🥳✨
+
+🔐 Click here to start the challenge: https://minictf-challenge1.netlify.app/
+
+🔐Once you complete the challenge, don't forget to submit the form below after entering the code!
+https://forms.gle/iXbqQRJ9D6t2JfVy6
+
+Best of luck!!🔥
